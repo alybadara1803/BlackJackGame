@@ -7,15 +7,22 @@
 // //increment
 // let nameEL = document.getElementById("name-el")
 // nameEL.textContent = "welcome Mister" + " " + name
-let firstCard = 3
-let secondCard = 10
-// 2. Create a variable, sum, and set it to the sum of the two cards
-let sum = firstCard + secondCard
+// let firstCard = 3
+// let secondCard = 10
+// // 2. Create a variable, sum, and set it to the sum of the two cards
+// let sum = firstCard + secondCard
 
-if (sum < 21 ){
-    console.log("Do you want to draw a new card ?")
-} else if ( sum === 21 ){
-    console.log("You've won the BlackJack !")
+// if (sum < 21 ){
+//     console.log("Do you want to draw a new card ?")
+// } else if ( sum === 21 ){
+//     console.log("You've won the BlackJack !")
+// } else {
+//     console.log('You\'ve lost')
+// }
+
+let age = 22
+if (age < 21){
+    console.log("You can not enter ! ")
 } else {
-    console.log('You\'ve lost')
+    console.log("Welcome !")
 }
