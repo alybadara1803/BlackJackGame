@@ -17,6 +17,6 @@ if (sum <= 20 ){
 } else if ( sum === 21 ){
     console.log("You've won the BlackJack !")
 } else {
-    console.log('You\'re out of the game')
+    console.log("You're out of the game")
 }
 
