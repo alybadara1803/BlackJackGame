@@ -13,7 +13,7 @@ let secondCard = 7
 let sum = firstCard + secondCard
 
 if (sum <= 20 ){
-    console.log("Do you want to draw a new card ?")
+    console.log("Do you want to draw a new card, please ?")
 } else if ( sum === 21 ){
     console.log("You've won the BlackJack !")
 } else {
