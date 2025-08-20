@@ -3,7 +3,8 @@ cards.push(6)
 cards.push(7)
 console.log(cards)
 cards.pop()
-
+// console.log(cards)
+//console.log(cards)
 
 // Push the newMessage to the messages array, and then log out the array
 
